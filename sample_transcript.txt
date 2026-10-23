@@ -1,0 +1,5 @@
+SAMPLE TRANSCRIPT — NOT A REAL TASK 1 RUN
+Creator request: Review this offer and identify risks.
+Expected/illustrative tool call: get_creator_terms
+Expected/illustrative tool call: analyze_brand_offer
+Assistant: The offer leaves payment timing unclear and requests six months of advertising usage rights. Ask for clarification before accepting. The brand is not verified based on the information supplied.
